@@ -1,8 +1,8 @@
 👋 Hola! The name is Raja Ikhsan Halomoan.
 
-🌱 Currently learning how to be a Full-Stack Web Developer. And really interested in JavaScript.
+🌱 Besides being a UX Designer, I'm trying to learn how to be a full-stack web developer! 
 
-📫 Hit me up on my Linkedin : Raja Ikhsan Halomoan!
+📫 Hit me up on my [LinkedIn](https://www.linkedin.com/in/rajahalomoan/)
 
 🤗 Lets build something withraja;
 <!---
