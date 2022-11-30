@@ -1,6 +1,6 @@
 👋 Hola! The name is Raja Ikhsan Halomoan.
 
-🌱 Besides being a UX Designer, I'm trying to learn how to be a full-stack web developer! 
+🌱 Besides being a UX Designer, I'm trying to learn how to be Data Analyst! 
 
 📫 Hit me up on my [LinkedIn](https://www.linkedin.com/in/rajahalomoan/)
 
