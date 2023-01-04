@@ -1,11 +1,9 @@
-👋 Hola! The name is Raja Ikhsan Halomoan.
+Hello, my handle is my name (〃￣ω￣〃ゞ   
+A Tech Enthusiast **specialized on Data Science and UX Designer**. Code in Python and R.  
+Hit me on my LinkedIn to chat about the job or anything about UX and Data Science. I'd be likely to hear from you!
 
-🌱 Besides being a UX Designer, I'm trying to learn how to be Data Analyst! 
+## Upcoming Projects
+- Data Analytics Tutorial
+- Data Analytics Portofolio  
 
-📫 Hit me up on my [LinkedIn](https://www.linkedin.com/in/rajahalomoan/)
-
-🤗 Lets build something withraja;
-<!---
-withraja/withraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rajahalomoan)
