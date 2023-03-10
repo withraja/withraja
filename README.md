@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withraja&label=Profile%20views&color=0e75b6&style=flat" alt="withraja" /> </p>
 
-🔭 Currently working on my Data Visualization Portofolio using PowerBI
+🔭 Currently working on **Data Visualization Portofolio**
 
  🪴 Currently learning **Microsoft PowerBI**
 
