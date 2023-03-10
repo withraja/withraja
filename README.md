@@ -1,8 +1,3 @@
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
-
-<h1 align="center">Raja Ikhsan Halomoan</h1>
-
-<h4 align="center">blending data and design for a seamless user experience</h4>
 <img align="right" alt="Coding" width="400" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withraja&label=Profile%20views&color=0e75b6&style=flat" alt="withraja" /> </p>
