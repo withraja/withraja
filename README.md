@@ -1,8 +1,8 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)]
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)]
 
-<h2 align="center">Hi there Peeps 👋</h2>
+<h1 align="center">Hi there Peeps 👋</h1>
 <h3 align="center">let's blending data and design for a seamless user experience with raja</h3>
-(img align="right" alt="Coding" width="400" src=https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withraja&label=Profile%20views&color=0e75b6&style=flat" alt="withraja" /> </p>
